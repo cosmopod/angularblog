@@ -6,4 +6,4 @@
  * Time: 0:08
  */
 
-echo "Bienvenido a angulor!";
+echo "Bienvenido a angular!";
